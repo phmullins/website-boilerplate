@@ -1,0 +1,95 @@
+/* ******************************************** */
+/* Information                                  */
+/* ******************************************** */
+/* Name: Arkham CSS library v0.1.8              */
+/* Date Revised: 2019-08-03 @ 07:22 AM          */
+/* Author: patrick@arkmail.us                   */
+/* Homepage: https://pmullins.net/              */
+/* ******************************************** */
+
+/* ******************************************** */
+/* Modules                                      */
+/* ******************************************** */
+
+@import url(lib/banners.css);
+@import url(lib/wallpaper.css);
+
+/* ******************************************** */
+/* General                                      */
+/* ******************************************** */
+
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #fdfdfd;
+  font-family: 'Lucida Grande', sans-serif;
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+  position: relative;  
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -moz-font-feature-settings: "liga" on;
+}
+
+/* ******************************************** */
+/* Layout                                       */
+/* ******************************************** */
+
+.center {
+  text-align: center;
+}
+
+/* ******************************************** */
+/* Typography                                   */
+/* ******************************************** */
+
+em {
+  font-style:italic;
+}
+
+strong {
+  font-weight:bold;
+}
+
+b {
+  font-weight:normal;
+}
+
+p {
+  color: #000000;
+}
+
+/* ******************************************** */
+/* Links                                        */
+/* ******************************************** */
+
+.links {
+  font-size: 14px;
+}
+
+a {
+  color: #29ABE2;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(0, 0, 0);
+  text-decoration: underline;
+}
+
+a:active {
+  color: #29ABE2;
+}
+
+/* ******************************************** */
+/* Color Information                            */
+/* ******************************************** */
+
+/* #f56c11; = Fall                              */
+
+

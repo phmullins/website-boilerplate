@@ -1,0 +1,32 @@
+/* ******************************************** */
+/* Information Banners                          */
+/* ******************************************** */
+
+.ban_info {
+  margin-bottom: 15px;
+  padding: 4px 12px;
+  background-color: #e7f3fe;
+  border-left: 6px solid #2196F3;
+}
+
+.ban_success {
+  margin-bottom: 15px;
+  padding: 4px 12px;
+  background-color: #ddffdd;
+  border-left: 6px solid #4CAF50;
+}
+
+.ban_warning {
+  margin-bottom: 15px;
+  padding: 4px 12px;
+  background-color: #ffffcc;
+  border-left: 6px solid #ffeb3b;
+}
+
+.ban_danger {
+  margin-bottom: 15px;
+  padding: 4px 12px;
+  background-color: #ffdddd;
+  border-left: 6px solid #f44336;
+}
+
