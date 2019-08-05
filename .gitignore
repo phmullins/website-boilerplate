@@ -1,0 +1,50 @@
+######################
+# Miscellaneous      #
+######################
+
+# Ignore the BBEdit project file.
+*.bbprojectd
+*.vscode
+
+######################
+# Compiled Source    #
+######################
+
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+######################
+# Packages           #
+######################
+
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+######################
+# Logs and Databases #
+######################
+
+*.log
+*.sql
+*.sqlite
+
+######################
+# OS Generated Files #
+######################
+
+*.DS_Store
+*.DS_Store?
+*.Spotlight-V100
+*.Trashes
+*.ehthumbs.db
+*.Thumbs.db
