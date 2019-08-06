@@ -1,0 +1,25 @@
+/* humanstxt.org */
+
+/* Team */
+
+Web Designer: Designer_Name
+From: Location
+Twitter: Twitter_Handle
+Mastedon: Mastedon_Handle
+
+/* Thanks */
+
+
+/* Site */
+
+Site: URL
+Last Update: 2019-08-05
+Language: English En-US
+Doctype: HTML5
+
+/* Technology */
+
+Standards: HTML5, CSS3
+Components: PHP, JavaScript
+Software: BBEdit, Forklift, Pixelmator
+Hosted on: Google Cloud
